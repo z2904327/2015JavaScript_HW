@@ -1,12 +1,9 @@
 function min(a,b){
-var m=0;
 if(a<b){
-	m=a;
-return m;
+return a;
 }
 else{
-	m=b
-	return m;
+return b;
 }
 }
 var x = min(3,5);
