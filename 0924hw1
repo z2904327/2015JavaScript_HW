@@ -1,0 +1,13 @@
+function min(a,b){
+var m=0;
+if(a<b){
+	m=a;
+return m;
+}
+else{
+	m=b
+	return m;
+}
+}
+var x = min(3,5);
+console.log("min(3,5)=",x);
