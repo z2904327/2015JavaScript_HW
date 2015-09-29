@@ -6,5 +6,4 @@ else{
 return b;
 }
 }
-var x = min(3,5);
-console.log("min(3,5)=",x);
+console.log(min(3,5));
