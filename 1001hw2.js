@@ -1,6 +1,7 @@
 /*substr( $string , $start , $length )
 
-$strting 是原始的字串，$start 是要開始擷取的位置，$length 則為要截取的字串長度，要注要的是 $start 與 $length 都必須為數字才有作用，可以是正整數，也可以是負整數，以下提供幾個範例參考。
+$strting 是原始的字串，$start 是要開始擷取的位置，$length 則為要截取的字串長度，
+要注要的是 $start 與 $length 都必須為數字才有作用，可以是正整數，也可以是負整數，以下提供幾個範例參考。
 
 如果沒有設定 $start 也是可以的，直接給 length 就可以取長度，正負値將影響取得的內容。
 
